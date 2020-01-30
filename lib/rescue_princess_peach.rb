@@ -1,4 +1,4 @@
 def rescued_princess_peach 
-  #{"Horray! Mario has rescued Princess Peach.\n"}
-  puts "Horray! Mario has rescued Princess Peach."
+  #{"Hooray! Mario has rescued Princess Peach.\n"}
+  puts "Hooray! Mario has rescued Princess Peach."
 end
